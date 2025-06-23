@@ -1,3 +1,8 @@
+<p align="center">
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝐍𝐀𝐖𝐀𝐁-𝐌𝐃</h1>
+</p>
+
+
 ```
 DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
@@ -11,7 +16,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+NAWAB;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=MULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+NAWAB;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
