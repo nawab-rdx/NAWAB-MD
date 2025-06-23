@@ -10,18 +10,17 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
 
-  <p align="center">
-<a href="https://github.com/nawab-rdx/NAWAB-MD.git/followers"><img title="Followers" src="https://img.shields.io/github/followers/nawab-rdx?color=blue&style=flat-square"></a>
-<a href="https://github.com/nawab-rdx/NAWAB-MD.git/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nawab-rdx/NAWAB-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/nawab-rdx/NAWAB-MD.git/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nawab-rdx/NAWAB-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/nawab-rdx/NAWAB-MD.git/"><img title="Size" src="https://img.shields.io/github/repo-size/nawab-rdx/NAWAB-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/nawab-rdx/NAWAB-MD.git/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+NAWAB;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+NAWAB-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+NAWAB+RDX" alt="Typing SVG" /></a>
-  </p>
+<div align="center">
+  <a href="https://github.com/nawab-rdx/NAWAB-MD/followers"><img title="Followers" src="https://img.shields.io/github/followers/nawab-rdx?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/nawab-rdx/NAWAB-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nawab-rdx/NAWAB-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/nawab-rdx/NAWAB-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nawab-rdx/NAWAB-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/nawab-rdx/NAWAB-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/nawab-rdx/NAWAB-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/nawab-rdx/NAWAB-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+</div>
 
 --- 
 
