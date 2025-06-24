@@ -40,7 +40,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/nawab-rdx/NAWAB-MD/fork"><img title="FORK" src="https://img.shields.io/badge/FORK%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/nawab-rdx/NAWAB-MD/fork"><img title="FORK" src="https://img.shields.io/badge/FORK-NAWAB%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
