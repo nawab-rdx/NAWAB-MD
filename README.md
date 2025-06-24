@@ -16,7 +16,8 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=MULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+NAWAB;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://ibb.co/TqwBzQQZ
+?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=MULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+NAWAB;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
@@ -29,9 +30,9 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 --- 
 
-<a><img src='![image](https://github.com/user-attachments/assets/ed6ab4b2-080f-4a4a-937c-d4546eee5d25)'/></a>
+<a><img src='https://ibb.co/TqwBzQQZ)'/></a>
 
-<a><img src='![image](https://github.com/user-attachments/assets/ed6ab4b2-080f-4a4a-937c-d4546eee5d25)'/></a>
+<a><img src='https://ibb.co/TqwBzQQZ)'/></a>
 
 ***
 
@@ -169,3 +170,13 @@ THANKS FOR YOUR SUPPORT MY DEAR FRIEND'S
 
 ------
 
+## 🗃️ PROJECT ARCHITECTS
+<div align="center">
+  <a href="https://github.com/nawab-rdx/NAWAB-MD">
+    <img src="https://github-readme-stats.vercel.app/api?username=nawabrdx&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/nawab-rdx/NAWAB-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+</div>
