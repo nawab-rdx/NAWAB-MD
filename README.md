@@ -168,13 +168,3 @@ THANKS FOR YOUR SUPPORT MY DEAR FRIEND'S
 
 ------
 
-## 🗃️ PROJECT ARCHITECTS
-<div align="center">
-  <a href="https://github.com/nawab-rdx/NAWAB-MD">
-    <img src="https://github-readme-stats.vercel.app/api?username=nawabrdx&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/nawab-rdx/NAWAB-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
-</div>
